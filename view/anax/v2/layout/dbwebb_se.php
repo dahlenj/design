@@ -269,7 +269,6 @@ $class .= empty($class) ? "" : "has-sidebar";
 <?php endif; ?>
 
 
-
 <!-- sitefooter -->
 <?php if (regionHasContent("footer")) : ?>
 <div class="outer-wrap outer-wrap-footer" role="contentinfo">

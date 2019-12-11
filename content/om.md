@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,44 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Design är hjärtat och själen i varje hemsidas yttre och inre.
 
-Skriv några kloka ord om kursen?
+<div>
+<pre>
 
-Lägg till en representativ bild för kursen, enligt ditt egna val.
-
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+                                       _
+                                      H||
+                                      H||
+                            __________H||___________
+                            [|.......................|
+                            ||.........## --.#.......|
+                            ||.........   #  # ......|            @@@@
+                            ||.........     *  ......|          @@@@@@@
+                            ||........     -^........|   ,      - @@@@
+                            ||.....##\        .......|   |     '_ @@@
+                            ||....#####     /###.....|   |     __\@ \@
+                            ||....########\ \((#.....|  _\\  (/ ) @\_/)____
+                            ||..####,   ))/ ##.......|   |(__/ /     /|% #/
+                            ||..#####      '####.....|    \___/ ----/_|-*/
+                            ||..#####\____/#####.....|       ,:   '(
+                            ||...######..######......|       |:     \
+                            ||.....""""  """"........|       |:      )
+                            [|_______________________|       |:      |
+                                   H||_______H||             |_____,_|
+                                   H||________\|              |   / (
+                                   H||       H||              |  /\  )
+                                   H||       H||              (  \| /
+                                  _H||_______H||__            |  /'=.
+                                H|________________|           '=>/  \
+                                                              /  \ /|/
+                                                            ,___/|
+</pre>
+</div>
+<!-- [FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."] -->
