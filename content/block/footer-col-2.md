@@ -1,3 +1,3 @@
-#### Footer col 2
+#### Hemsidan till kursen design
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+<a href="https://dbwebb.se/kurser/design-v2/kmom02">Design</a>
